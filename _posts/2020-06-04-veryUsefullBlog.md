@@ -4,8 +4,9 @@ title:  Extremely usefull Blog
 date:   2020-06-28
 ---
 
-We are all Anonymous ma man
-         .-""""-.       .-""""-.
+# We are all Anonymous ma man....
+```
+        .-""""-.       .-""""-.
           /        \     /        \
          /_        _\   /_        _\
         // \      / \\ // \      / \\
@@ -25,7 +26,11 @@ We are all Anonymous ma man
      |  |           |  |           |  |
      |  |           |  |           |  |
 
-   WHAT POPPING
+   WHAT POPPING.
+   JULY COMING UP. 
+   WE UP NEXT.
+   WE KINDA STRESSED.
+   BUT ALL LIVES MATTER SO ALLS GOOD
 
  /\/\/\                            /  \
 | \  / |                         /      \
@@ -49,5 +54,8 @@ We are all Anonymous ma man
 ------------------------/  \-----/  \/  \-----/  \--------
                         \\//     \\//\\//     \\//
                          \/       \/  \/       \/
-THE LEFT. 
-BEST CHOICE OF 2020 SO FAR
+
+```
+
+# THEY LEFT. 
+# BEST CHOICE OF 2020 SO FAR
